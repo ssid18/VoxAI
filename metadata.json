@@ -1,0 +1,7 @@
+{
+  "name": "VoxAI - Internal Dashboard",
+  "description": "A high-fidelity internal admin panel for the VoxAI platform, featuring real-time speech-to-text, AI-driven responses, and outbound call simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
